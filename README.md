@@ -1,4 +1,5 @@
 Capstone Project Module 01 - Taufiqurrahman
+
 Aplikasi CRUD dengan tema data toko penjualan
 
 Tujuan dibikinnya aplikasi ini adalah untuk membantu manager store maupun kasir dalam mengawasi jumlah barang yang keluar dan memonitoring jumlah pendapatan yang diterima dari transaksi yang terjadi.
